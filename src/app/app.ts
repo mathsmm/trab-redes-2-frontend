@@ -9,7 +9,7 @@ import { ApiService } from './api-service';
 })
 export class App {
   protected title = 'FrontRedes2';
-  apiUrl: string = '';
+  apiUrl: string = 'https://trab-redes-2-api.zeabur.app';
   querySql: string = '';
   resposta: any;
 
